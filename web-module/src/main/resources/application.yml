@@ -1,0 +1,18 @@
+spring:
+  data:
+    rest:
+      max-page-size: 20
+---
+
+spring:
+  thymeleaf:
+    cache: false
+    suffix: .html
+    prefix: classpath:templates/
+    mode: HTML5
+---
+
+spring:
+  data:
+    rest:
+      base-path: /rest
