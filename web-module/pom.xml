@@ -9,8 +9,9 @@
 	<artifactId>web-module</artifactId>
 	<dependencies>
 		<dependency>
-			<groupId>io.manco.maxim</groupId>
+			<groupId>com.hikuley</groupId>
 			<artifactId>core-module</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
