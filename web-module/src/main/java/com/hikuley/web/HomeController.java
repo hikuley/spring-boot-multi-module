@@ -1,4 +1,4 @@
-package io.manco.maxim.sbmm.web;
+package com.hikuley.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

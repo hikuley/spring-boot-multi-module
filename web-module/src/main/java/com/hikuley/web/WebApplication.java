@@ -1,6 +1,6 @@
-package io.manco.maxim.sbmm.web;
+package com.hikuley.web;
 
-import io.manco.maxim.sbmm.core.CoreApplication;
+import com.hikuley.core.CoreApplication;
 import org.springframework.boot.Banner;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

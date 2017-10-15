@@ -1,8 +1,8 @@
-package io.manco.maxim.sbmm.core.service;
+package com.hikuley.core.service;
 
 import java.util.Collection;
 
-import io.manco.maxim.sbmm.core.domain.MyEntity;
+import com.hikuley.core.domain.MyEntity;
 
 public interface EntityService {
 

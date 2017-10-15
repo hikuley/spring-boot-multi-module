@@ -1,4 +1,4 @@
-package io.manco.maxim.sbmm.core;
+package com.hikuley.core;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;

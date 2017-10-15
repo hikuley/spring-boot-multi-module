@@ -1,4 +1,4 @@
-package io.manco.maxim.sbmm.core.service;
+package com.hikuley.core.service;
 
 import static org.mockito.Mockito.verify;
 import static org.mockito.MockitoAnnotations.initMocks;
@@ -8,8 +8,8 @@ import org.junit.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 
-import io.manco.maxim.sbmm.core.domain.MyEntity;
-import io.manco.maxim.sbmm.core.repository.MyEntityRepository;
+import com.hikuley.core.domain.MyEntity;
+import com.hikuley.core.repository.MyEntityRepository;
 
 public class EntityServiceTest {
 

@@ -1,4 +1,4 @@
-package io.manco.maxim.sbmm.core.domain;
+package com.hikuley.core.domain;
 
 import java.io.Serializable;
 import java.util.Date;

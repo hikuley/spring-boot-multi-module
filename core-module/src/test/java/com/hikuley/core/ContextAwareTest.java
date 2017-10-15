@@ -1,4 +1,4 @@
-package io.manco.maxim.sbmm.core;
+package com.hikuley.core;
 
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

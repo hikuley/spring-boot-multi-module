@@ -1,13 +1,12 @@
-package io.manco.maxim.sbmm.core.service;
+package com.hikuley.core.service;
 
 import java.util.Collection;
 
+import com.hikuley.core.domain.MyEntity;
+import com.hikuley.core.repository.MyEntityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-
-import io.manco.maxim.sbmm.core.domain.MyEntity;
-import io.manco.maxim.sbmm.core.repository.MyEntityRepository;
 
 @Service
 public class MyEntityServiceImpl implements EntityService {

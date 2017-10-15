@@ -1,4 +1,4 @@
-package io.manco.maxim.sbmm.core.service;
+package com.hikuley.core.service;
 
 
 import static org.hamcrest.core.IsEqual.equalTo;
@@ -9,13 +9,13 @@ import static org.junit.Assert.assertThat;
 import java.util.ArrayList;
 import java.util.Collection;
 
+import com.hikuley.core.ContextAwareTest;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.annotation.Rollback;
 import org.springframework.transaction.annotation.Transactional;
 
-import io.manco.maxim.sbmm.core.ContextAwareTest;
-import io.manco.maxim.sbmm.core.domain.MyEntity;
+import com.hikuley.core.domain.MyEntity;
 
 public class EntityServiceIntegrationTest extends ContextAwareTest {
 
